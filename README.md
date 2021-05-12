@@ -1,7 +1,5 @@
 
-<br/>
 <h2 align="center">I'm <b>Frontend Developer</b> and <i>Designer</i></h2>
-<br/>
 <p align="center">
    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400" />
 </p>
@@ -11,7 +9,6 @@
 </p>
 
 <h2 align="center">🧰 I'm familiar with 🧰</h2>
-<br>
 <p align="center">
 <img src="https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff" alt="html" />
 <img src="https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3" alt="css" />
