@@ -1,6 +1,6 @@
 
 <br/>
-<h2 align="center">I'm an Frontend Developer and Designer</h2>
+<h2 align="center">I'm <b>Frontend Developer</b> and <i>Designer</i></h2>
 <br/>
 <p align="center">
    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400" />
