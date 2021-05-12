@@ -6,11 +6,9 @@
    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400" />
 </p>
 
-<br>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=serifselim&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&locale=en&layout=compact" alt="serifselim" />
 </p>
-<br>
 
 <h2 align="center">🧰 I'm familiar with 🧰</h2>
 <br>
