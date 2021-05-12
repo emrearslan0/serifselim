@@ -1,5 +1,5 @@
 
-<h2 align="center">I'm <b>Frontend Developer</b> and <i>Designer</i></h2>
+<h1 align="center">I'm <b>Frontend Developer</b> and <i>Designer</i></h1>
 <p align="center">
    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400" />
 </p>
@@ -16,7 +16,6 @@
 <img src="https://img.shields.io/badge/-Sass-%23F7DF1C?style=flat-square&logo=sass&logoColor=ffffff&labelColor=FF469F&color=FF469F" alt="sass" />
 <img src="https://img.shields.io/badge/-Vuejs-61DAFB?style=flat-square&logo=v&logoColor=ffffff&labelColor=41B883&color=41B883" alt="vuejs" />
 <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff" alt="react" />
-</p>
 </p>
 
 
