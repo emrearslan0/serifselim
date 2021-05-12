@@ -3,7 +3,7 @@
 <h2 align="center">I'm an Frontend Developer and Designer</h2>
 <br/>
 <p align="center">
-   <img src="https://media.giphy.com/media/9LQHvkbIzTSLe/giphy.gif" width="600" height="400" style="object-fit: cover;" />
+   <img src="https://media.giphy.com/media/9LQHvkbIzTSLe/giphy.gif" width="600" />
 </p>
 
 <br>
