@@ -1,7 +1,7 @@
 
-<h1 align="center">I'm <b>Frontend Developer</b> and <i>Designer</i></h1>
+<h2 align="center">I'm <b>Frontend Developer</b> and <i>Designer</i></h2>
 <p align="center">
-   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400" />
+   <img src="https://cdn.codecarrot.net/images/designer-rotating-head-and-developer-up-down.gif" />
 </p>
 
 <p align="center">
