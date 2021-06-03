@@ -1,11 +1,11 @@
 
 <h2 align="center">I'm <b>Frontend Developer</b> and <i>Designer</i></h2>
 <p align="center">
-   <img src="https://cdn.codecarrot.net/images/designer-rotating-head-and-developer-up-down.gif" />
+   <img src="https://www.uweta.com/wp-content/uploads/2021/02/Web-Tasarim-4.gif" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=serifselim&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&locale=en&layout=compact" alt="serifselim" width="600" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=serifselim&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&locale=en&layout=compact" alt="serifselim" width="500" />
 </p>
 
 <h2 align="center">🧰 I'm familiar with 🧰</h2>
