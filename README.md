@@ -1,7 +1,7 @@
 
 <h2 align="center">I'm <b>Frontend Developer</b> and <i>Designer</i></h2>
 <p align="center">
-   <img src="https://media.giphy.com/media/kcpobK0upw5gY/giphy.gif" />
+   <img src="https://media.giphy.com/media/yhfTY8JL1wIAE/giphy.gif" />
 </p>
 
 <p align="center">
