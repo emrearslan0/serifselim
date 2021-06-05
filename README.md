@@ -1,7 +1,7 @@
 
 <h2 align="center">I'm <b>Frontend Developer</b> and <i>Designer</i></h2>
 <p align="center">
-   <img src="https://www.uweta.com/wp-content/uploads/2021/02/Web-Tasarim-4.gif" />
+   <img src="https://media.giphy.com/media/kcpobK0upw5gY/giphy.gif" />
 </p>
 
 <p align="center">
