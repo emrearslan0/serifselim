@@ -1,7 +1,7 @@
 
 <h2 align="center">I'm <b>Frontend Developer</b> and <i>Designer</i></h2>
 <p align="center">
-   <img src="https://static.wixstatic.com/media/a87f99_9db3a9100a544d5d9a35cf97e37ca1d9~mv2.gif" width="500"/>
+   <img src="https://medyazen.com/img/hizmet/webgelistirme.gif" width="500"/>
 </p>
 
 <p align="center">
